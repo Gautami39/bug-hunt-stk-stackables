@@ -1,12 +1,12 @@
-# bug-hunt-stk-stackables
-#  Manual Testing Report – STK Stackables (Dummy Shopify Website)
+# 🐞 bug-hunt-stk-stackables  
+# 🧪 Manual Testing Report – STK Stackables (Dummy Shopify Website)
 
-> **Note:** This project is based on a *dummy Shopify website*-[stk-stackables.myshopify.com](https://stk-stackables.myshopify.com) created purely for QA learning and demonstration purposes.
+> **Note:** This project is based on a *dummy Shopify website* — [stk-stackables.myshopify.com](https://stk-stackables.myshopify.com) — created purely for QA learning and demonstration purposes.
 
 This repository showcases my manual testing documentation, detailed bug reports, functional testing notes, and automation suggestions.
 
 ## 📄 View the Report
-👉 [Gautami Shetty (Software Tester Intern).pdf](./Gautami%20Shetty%20(Software%20Tester%20Intern).pdf) 
+👉 [Gautami Shetty (Software Tester Intern).pdf](Gautami%20Shetty%20(Software%20Tester%20Intern).pdf)
 
 ## 🧠 Highlights
 - Functional, UI, and Usability Testing  
